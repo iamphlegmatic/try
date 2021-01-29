@@ -5,7 +5,6 @@ int main()
    long long int a,b,n,i;
     bool flag=true;
     cin>>a>>b>>n;
-
     for(int i=0;i<=9;i++)
     {
         long long int x=a*10+i;
